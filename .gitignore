@@ -216,3 +216,10 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Track B — GCP / Docker specific
+credentials.json
+*.pem
+*.key
+.DS_Store
+scripts/config/*.local.env
