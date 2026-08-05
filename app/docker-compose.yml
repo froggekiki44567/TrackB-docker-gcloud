@@ -1,0 +1,9 @@
+services:
+  app:
+    build: .
+    container_name: demo-app
+    ports:
+      - "80:8080"
+    restart: always
+    environment:
+      ENVIRONMENT: "${ENVIRONMENT:-unknown}"
