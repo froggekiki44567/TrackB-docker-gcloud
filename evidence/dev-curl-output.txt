@@ -1,0 +1,3 @@
+{"status":"ok"}
+
+{"environment":"dev","message":"Hello from GCP VM","status":"ok"}
