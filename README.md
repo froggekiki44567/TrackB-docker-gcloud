@@ -32,7 +32,7 @@ read into Kubernetes, but neither is something I'd confidently build
 and explain live under time pressure. Track B is what I'd genuinely
 reach for first to get something running quickly, so it's also the
 track that shows my actual working style rather than me improvising
-tools I'm still learning. It was also genuinely interesting to getting
+tools I'm still learning. It was also genuinely interesting to
 build the whole thing to provision itself end-to-end, rather than
 just describing what it would do, was the most satisfying part.
 
