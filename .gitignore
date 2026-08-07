@@ -223,4 +223,4 @@ credentials.json
 *.key
 .DS_Store
 scripts/config/*.local.env
-scripts/config/*.env
+scripts/config/*.local.env
