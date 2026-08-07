@@ -93,6 +93,12 @@ the first is actually used by this track's script (it calls the
 `gcloud` CLI directly), but the second sets up Application Default
 Credentials as requested regardless of track.
 
+Once gcloud is installed, the rest of this README (`chmod`, `grep`,
+`curl`, etc.) assumes a Unix-like shell. On Windows, run everything
+after this point in **Git Bash** (installed alongside Git for Windows)
+or **WSL** — not PowerShell or Command Prompt, which don't have these
+commands built in.
+
 Sanity-check before doing anything:
 
 ```bash
